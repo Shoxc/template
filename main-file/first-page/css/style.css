@@ -133,7 +133,6 @@ section{padding: 0;}
    ====================================== */
 
 #statistic{
-    background-image: url("../images/xtz/open_circle-svg.png");
     overflow: visible;
     overflow-x: visible;
 }
@@ -816,7 +815,6 @@ header a.logo img {
 ====================================== */
 
 .skills{
-    background-image: url("../images/xtz/circle_right_darker.png");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -856,7 +854,6 @@ header a.logo img {
 ====================================== */
 
 .timeline-bg{
-    background-image: url("../images/xtz/cirle_left_darker.png");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1265,7 +1262,6 @@ header a.logo img {
 ====================================== */
 
 .portfolio-bg{
-    background-image: url("../images/xtz/statistics_bg_darker.png");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;

@@ -5150,7 +5150,7 @@ ul.shop-description li::before {
 
 /* some background images */
 .bg-img-1 {
-    background: url("first-page/images/xtz/maelstrom_logo_round.png") no-repeat;
+    /*background: url("first-page/images/xtz/maelstrom_logo_round.png") no-repeat;*/
 }
 
 /* background setting */

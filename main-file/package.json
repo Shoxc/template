@@ -6,6 +6,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@airgap/beacon-sdk": "^2.0.0",
+    "@taquito/beacon-wallet": "7.2.0-alpha.0",
+    "@taquito/taquito": "^7.1.0-preview-lambdaview.0",
+    "@taquito/utils": "^7.1.0-preview-lambdaview.0",
+    "@types/jquery": "^3.5.5",
+    "core-js": "^3.6.5",
+    "jquery": "^3.5.1",
+    "js-sha256": "^0.9.0",
     "uuid": "^8.3.2"
   },
   "author": "",
